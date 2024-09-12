@@ -1,0 +1,15 @@
+/* style.css */
+
+body {
+    background-color: lightsteelblue;
+    color: black;
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.maintitle {
+    color: darkred;
+    font-size: 32px;
+    text-align: center;
+!    font-weight: 800
+}
