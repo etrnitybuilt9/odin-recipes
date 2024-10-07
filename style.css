@@ -7,9 +7,19 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.maintitle {
+div {
+    border: 10px;
+    margin: 10px;
+    color: azure;
+    background-color: lightblue;
+}
+
+.pagetitle {
+    width: 400px;
     color: darkred;
     font-size: 32px;
     text-align: center;
-!    font-weight: 800
+    font-weight: 800;
+    margin: 0 auto;
 }
+
